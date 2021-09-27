@@ -1,0 +1,26 @@
+{
+  "name": "yapi-plugin-interface-statis",
+  "version": "1.0.0",
+  "description": "yapi plugin interface statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jialong5566/yapi-plugin-interface-statis.git"
+  },
+  "keywords": [
+    "yapi",
+    "plugin",
+    "interface",
+    "statistics"
+  ],
+  "author": "jialong5566",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jialong5566/yapi-plugin-interface-statis/issues"
+  },
+  "homepage": "https://github.com/jialong5566/yapi-plugin-interface-statis#readme"
+}
